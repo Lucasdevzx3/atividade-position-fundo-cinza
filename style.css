@@ -1,0 +1,40 @@
+*{
+    background-color: gray;
+    height: 100%;
+    width: 100%;
+}
+.square1{
+    background-color: black;
+    width: 25%;
+    height: 0; /* A mágica está aqui */
+    padding-bottom: 22%; /* ... e está aqui */
+    margin: -2%;
+    float: left;
+    position: relative;
+}
+.square2{
+    background-color: black;
+    width: 25%;
+    height: 0; /* A mágica está aqui */
+    padding-bottom: 22%; /* ... e está aqui */
+    margin: -2%;
+    float: right;
+    position: relative;
+}
+.square3{
+    background-color: black;
+    position:relative;
+    width: 25%;
+    height: 25%;
+    top: 90%;
+    left: -1%;
+}
+.square4 {
+    background-color: black;
+    position:relative;
+    width: 25%;
+    height: 25%;
+    top: 65%;
+    left: 77%;
+    
+}
