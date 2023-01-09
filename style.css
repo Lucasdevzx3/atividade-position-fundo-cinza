@@ -7,7 +7,7 @@
     background-color: black;
     width: 25%;
     height: 0; /* A mágica está aqui */
-    padding-bottom: 22%; /* ... e está aqui */
+    padding-bottom: 22%; /* e está aqui */
     margin: -2%;
     float: left;
     position: relative;
@@ -15,8 +15,8 @@
 .square2{
     background-color: black;
     width: 25%;
-    height: 0; /* A mágica está aqui */
-    padding-bottom: 22%; /* ... e está aqui */
+    height: 0; 
+    padding-bottom: 22%; 
     margin: -2%;
     float: right;
     position: relative;
